@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Runner {
 
-   private static List<MyStack> stackListe = new ArrayList<>();
+   static List<MyStack> stackListe = new ArrayList<>();
 
     public static void main(String[] args) {
 

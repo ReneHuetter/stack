@@ -49,8 +49,16 @@ public class MyStack {
     }
 
     public void mergeStack (MyStack mergeStack) {
-         for (){
+         for (Integer integer : stack){
             push(mergeStack.pop());
          }
     }
+
+    /*
+    public Integer sum (MyStack stack) {
+        for (Integer integer: stack) {
+
+        }
+    }
+     */
 }
